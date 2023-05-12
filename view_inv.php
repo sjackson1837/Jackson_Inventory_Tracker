@@ -13,7 +13,7 @@
             <th class="table-dark">Barcode</th>
             <th class="table-dark">Name</th>
             <th class="table-dark">Category</th>
-            <th class="table-dark">Min Qty</th>
+            <th class="table-dark">Min Qtyssss</th>
             <th class="table-dark">OH Qty</th>
         </tr>
     <?php
